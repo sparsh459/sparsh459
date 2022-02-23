@@ -81,3 +81,6 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sparsh459&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sparsh459&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- ACTIVITY GRAPH TRACKER -->
+[![Sparsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sparsh459&theme=react-dark)](https://github.com/riti2409/github-readme-activity-graph)
