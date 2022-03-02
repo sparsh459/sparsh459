@@ -78,8 +78,13 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :fire: My Stats :
 
+<!--  CONTRIBUTION AND STREAK BLOCK -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sparsh459&theme=dark&background=000000)](https://git.io/streak-stats)
 
+<!-- GITHUB STATISTICS -->
+![Github stats](https://github-readme-stats.vercel.app/api?username=sparsh459)  
+
+<!--  TOP LANGUAGES STATISTICS -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sparsh459&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
