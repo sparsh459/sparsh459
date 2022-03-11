@@ -86,9 +86,6 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!-- GITHUB STATISTICS -->
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sparsh459) 
 
-<!-- Wakatime -->
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sparsh459)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--  TOP LANGUAGES STATISTICS -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sparsh459&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
