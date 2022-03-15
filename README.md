@@ -39,6 +39,20 @@ Here are some ideas to get you started:
 </div>
 
 ---
+
+### Share My Profile on Twitter
+<a class="twitter-share-button"
+  href="https://twitter.com/intent/tweet"
+  data-size="large"
+  data-text="vevestaX : Use 5 lines of code to track features as well as Machine Learning experiments in an excel file"
+  data-url="https://github.com/Vevesta/VevestaX"
+  data-hashtags="example,demo"
+  data-via="twitterdev"
+  data-related="twitterapi,twitter">
+<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Share"/>
+</a>
+
+---
 ### :man_technologist: About Me :
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m a Software Engineer and contributing to frontend and backend for building applications.
