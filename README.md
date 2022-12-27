@@ -94,3 +94,4 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 <!-- ACTIVITY GRAPH TRACKER -->
 [![Sparsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sparsh459&theme=react-dark)](https://github.com/sparsh459/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sparsh459&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
