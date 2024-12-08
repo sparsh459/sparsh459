@@ -41,11 +41,11 @@ Here are some ideas to get you started:
 ---
 ### :man_technologist: About Me :
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m a Software Engineer and contributing to frontend and backend for building applications.
+- :telescope: I’m a Software Engineer who contributes to Cloud, backend, and DevOps for building applications.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I binge Netflix and read books.
+- :zap: I work out and read books in my free time.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sparsh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saxenasparsh/)  [![Gmail Badge](https://img.shields.io/badge/-sparsh0987654321@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sparsh0987654321@gmail.com)](mailto:sparsh0987654321@gmail.com)
 
